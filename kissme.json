@@ -2,7 +2,7 @@
   "latest_version": "1.0.1",
   "download_url": "https://youtu.be/QDia3e12czc?si=Cr1NWXt48VUV7hIU",
   "changelog": "- แก้ไขบั๊ก\n- เพิ่มระบบใหม่",
-  "force_update": false,
+  "force_update": true,
   "maintenance": false,
   "maintenance_message": "ปิดปรับปรุงชั่วคราว discord.gg/epkwu85H5Q",
   "announcement": "Hi !"
