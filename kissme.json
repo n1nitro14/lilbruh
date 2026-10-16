@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.0.1",
+  "download_url": "https://link-to-your-new-exe",
+  "changelog": "• แก้ไขบั๊ก\n• เพิ่มระบบใหม่",
+  "force_update": false,
+  "maintenance": false,
+  "maintenance_message": "ระบบกำลังปิดปรับปรุงชั่วคราว โปรดติดตามข่าวสารใน Discord",
+  "announcement": "ยินดีต้อนรับสู่ Uning Tools!"
+}
