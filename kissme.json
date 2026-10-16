@@ -3,7 +3,7 @@
   "download_url": "https://youtu.be/QDia3e12czc?si=Cr1NWXt48VUV7hIU",
   "changelog": "- แก้ไขบั๊ก\n- เพิ่มระบบใหม่",
   "force_update": false,
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_message": "ปิดปรับปรุงชั่วคราว discord.gg/epkwu85H5Q",
   "announcement": "Hi !"
 }
