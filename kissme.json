@@ -3,7 +3,7 @@
   "download_url": "https://link-to-your-new-exe",
   "changelog": "• แก้ไขบั๊ก\n• เพิ่มระบบใหม่",
   "force_update": false,
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "ปิดปรับปรุงชั่วคราว Discord:https://discord.gg/epkwu85H5Q",
   "announcement": "Hi !"
 }
